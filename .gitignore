@@ -6,3 +6,4 @@ build
 coverage
 .vs
 docs
+*.tgz
